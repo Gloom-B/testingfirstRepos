@@ -2,9 +2,10 @@
 
 int main()
 {
-	int yes;
+	int yes, no;
 
 	yes = 5;
+	no = 2;
 
 	return 0;
 
